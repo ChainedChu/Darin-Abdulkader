@@ -1,0 +1,2 @@
+# Darin-Abdulkader
+Swedish Translator.
